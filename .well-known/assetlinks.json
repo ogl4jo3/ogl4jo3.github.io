@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "com.example.accountinginstantapp",
+    "package_name": "com.ogl4jo3.accounting.free",
+    "sha256_cert_fingerprints":
+    ["8C:38:67:12:62:29:C0:E9:10:72:FA:B8:5A:F7:76:A1:4D:FF:7D:05:70:C0:99:E6:B7:5A:D0:50:DB:52:E2:13"]
+  }
+}]
